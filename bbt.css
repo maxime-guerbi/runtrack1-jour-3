@@ -1,0 +1,37 @@
+*{ 
+}
+body{
+    background-color: rgb(184, 181, 181)
+
+
+}
+h1 {
+    color:black;
+    text-shadow: 2px 2px rgb(0, 0, 0) ;
+    padding: 20px;
+    text-align: center;
+    
+
+
+    }
+    p {
+        color: rgb(7, 6, 6);
+        text-align: center;
+      }
+
+h2{
+    color:rgb(0, 0, 0);
+    text-align: center ;
+}
+img{
+    text-align: center;
+
+}
+.logo{ 
+    width: 100%;
+    text-align: center;
+}
+.image{
+    width: 100%;
+    text-align: center;
+}
